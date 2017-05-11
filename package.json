@@ -1,0 +1,27 @@
+{
+  "name": "bubbleinfo",
+  "version": "1.0.0",
+  "description": "Get information about current shows playing on TV via Bubble",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bubble",
+    "TV",
+    "shows",
+    "TV",
+    "Guide",
+    "TV",
+    "Program",
+    "Info"
+  ],
+  "author": "Harsh Fadnavis",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^3.2.0",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0",
+    "request-promise": "^4.1.1"
+  }
+}
